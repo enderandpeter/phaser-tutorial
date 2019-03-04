@@ -1,16 +1,17 @@
 import './App.css';
 import Phaser from 'phaser';
-import Scene1 from './Scenes/Scene1';
-import Scene2 from './Scenes/Scene2';
+// import Scene1 from './Scenes/Scene1';
+// import Scene2 from './Scenes/Scene2';
+import RPG from './Scenes/RPG';
 import React, { Component } from 'react';
 
-export const config = {
+const config = {
     type: Phaser.AUTO,
     parent: 'phaser-example',
-    width: 256,
-    height: 272,
+    width: 640,
+    height: 360,
     backgroundColor: 0x000000,
-    scene: [Scene1, Scene2]
+    scene: RPG
 };
 
 
