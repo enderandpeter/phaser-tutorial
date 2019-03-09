@@ -1,7 +1,5 @@
 import './App.css';
 import Phaser from 'phaser';
-// import Scene1 from './Scenes/Scene1';
-// import Scene2 from './Scenes/Scene2';
 import RPG from './Scenes/RPG';
 import React, { Component } from 'react';
 

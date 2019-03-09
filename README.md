@@ -1,3 +1,16 @@
+# Introduction
+
+This is from [a very simple tutorial](https://academy.zenva.com/course/phaser-101-introduction-to-game-development/).
+
+Some topics covered are
+
+* Creating a sprite from an image
+* Sizing and positioning game objects
+* Displaying text
+* Changing scenes
+
+# create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
